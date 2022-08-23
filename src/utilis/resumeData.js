@@ -134,7 +134,7 @@ export default {
     {
       tag: "React",
       images: [
-        "https://1drv.ms/u/s!AsJ_LtrjWguhgc9mE83uw6LX_FKJBw?e=8Yyz2Y",
+        "https://github.com/BarisKarapelit/CV-React-Project/blob/main/src/assets/images/project1.png?raw=true",
       ],
       title: "Resume Web Page",
       caption: "Single Page Application",
