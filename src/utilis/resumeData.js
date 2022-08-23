@@ -65,9 +65,9 @@ export default {
       "Department with 3rd place.",
     },
     {
-      title: "Ibn Khaldon High School",
-      date: "2011 – 2013",
-      description: "High School - 91.66%",
+      title: "Esenyurt Anatolian High School",
+      date: "09/2009 – 06/2014",
+      description: "High School - 68,06%",
     },
   ],
 
@@ -86,7 +86,7 @@ export default {
     },
     {
       title: "Electronic",
-      description: ["C++", "Raspberry Pi", "Arduino"],
+      description: ["C","C++", "Raspberry Pi", "Arduino"],
     },
     {
       title: "Programs",
@@ -100,127 +100,41 @@ export default {
     },
     {
       title: "Languages",
-      description: ["English", "Turkish", "Arabic"],
+      description: ["English", "Turkish"],
     },
   ],
 
   certifications: [
     {
       side: "left",
-      title: "The Bits and Bytes of Computer Networking",
+      title: "Modern JavaScript: ES6 Basics",
       date: "Apr 2021",
-      link: "https://www.coursera.org/account/accomplishments/verify/T32AB2GZLWA3",
+      link: "https://www.coursera.org/account/accomplishments/verify/9JSVPQLF37HH?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=project",
       organization: "coursera.org",
     },
     {
       side: "right",
-      title: "Technical Support Fundamentals",
+      title: "Google Developer Communities Turkey",
       date: "Mar 2021",
-      link: "https://www.coursera.org/account/accomplishments/verify/N7P6D2DSVPTD",
-      organization: "coursera.org",
+      link: "https://disk.yandex.com.tr/d/ItC1LXSaANr8GA",
+      organization: "gdg.community.dev",
     },
     {
       side: "left",
-      title: "Autodesk Fusion 360 Integrated CAD/CAM/CAE",
+      title: "First Aid Training",
       date: "Feb 2021",
-      link: "https://www.coursera.org/account/accomplishments/verify/AJ6QYJFUCFFT",
-      organization: "coursera.org",
+      link: "https://www.kizilay.org.tr/what-we-do/first-aid",
+      organization: "kizilay.org",
     },
-    {
-      side: "right",
-      title: "Excel Skills for Business: Intermediate II",
-      date: "Sep 2020",
-      link: "https://www.coursera.org/account/accomplishments/verify/T8AMABTB9NWH",
-      organization: "coursera.org",
-    },
-    {
-      side: "left",
-      title: "Excel Skills for Business: Intermediate I",
-      date: "Aug 2020",
-      link: "https://coursera.org/share/d4fe67704c7d2b22e19c38abaf24dd2d",
-      organization: "coursera.org",
-    },
-    {
-      side: "right",
-      title: "Python for Data Science and AI",
-      date: "Apr 2020",
-      link: "https://coursera.org/share/ef38139e4b8108421a5d8f3230526b04",
-      organization: "coursera.org",
-    },
-    {
-      side: "left",
-      title: "Python Data Structures",
-      date: "Mar 2020",
-      link: "https://coursera.org/share/ef38139e4b8108421a5d8f3230526b04",
-      organization: "coursera.org",
-    },
-    {
-      side: "right",
-      title: "Neural Networks and Deep Learning",
-      date: "Jan 2020",
-      link: "https://www.coursera.org/account/accomplishments/verify/NKKXJBHA9WCW",
-      organization: "coursera.org",
-    },
+    
   ],
 
   projects: [
-    {
-      tag: "University Projects",
-      images: [
-        "https://i.ibb.co/F3mhZWM/photo-2020-12-29-15-48-10.jpg",
-        "https://i.ibb.co/Ptc9gdx/photo-2020-12-28-21-18-32.jpg",
-        "https://i.ibb.co/Nr8rQ62/photo-2020-12-27-14-27-10.jpg",
-      ],
-      title: "Self balancing robot",
-      caption: "Arduino based self balancing robot",
-      description: "Project of 4th Year University",
-      links: [
-        { link: "https://youtu.be/0bnQlZczCOw", icon: <YouTubeIcon /> },
-        {
-          link: "https://github.com/mahowik/BalancingWii",
-          icon: <GitHubIcon />,
-        },
-      ],
-    },
-    {
-      tag: "University Projects",
-      images: [
-        "https://i.ibb.co/944F3Fj/1.jpg",
-        "https://i.ibb.co/F89wYQ4/2.jpg",
-        "https://i.ibb.co/LSY1kNW/3.jpg",
-      ],
-      title: "IoT Garden",
-      caption:
-        "Remote monitoring of plants using Raspberry Pi and controlled by Telegram",
-      description:
-        "Remote monitoring of plants using Raspberry Pi and controlled by Telegram",
-      links: [],
-    },
-    {
-      tag: "University Projects",
-      images: [
-        "https://i.ibb.co/DffNyTs/Annotation-2021-08-22-224435.png",
-        "https://i.ibb.co/f2Mbn1R/Annotation-2021-08-22-224614.png",
-        "https://i.ibb.co/kJ2whfy/Annotation-2021-08-22-224631.png",
-        "https://i.ibb.co/8ccjDCq/Annotation-2021-08-22-224648.png",
-        "https://i.ibb.co/34yvQg5/Annotation-2021-08-22-224739.png",
-      ],
-      title: "Abnormal Heart Sounds Detector",
-      caption:
-        "Deep learning-based Classifiers for Detection Abnormal Heart Sounds.",
-      description:
-        "A research paper was considered about Deep learning-based Classifiers for Detection of Abnormal Heart Sounds.",
-      links: [
-        {
-          link: "https://physionet.org/files/challenge-2016/1.0.0/papers/potes.pdf",
-          icon: <LinkIcon />,
-        },
-      ],
-    },
+    
     {
       tag: "React",
       images: [
-        "https://i.ibb.co/FWr7QHk/Annotation-2021-08-22-231400.png",
+        "https://1drv.ms/u/s!AsJ_LtrjWguhgc9mE83uw6LX_FKJBw?e=8Yyz2Y",
       ],
       title: "Resume Web Page",
       caption: "Single Page Application",

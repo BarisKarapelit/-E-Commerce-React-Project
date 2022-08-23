@@ -18,7 +18,7 @@ export const Footer = () => {
           <br />
           Clone Idea from{" "}
           <a href="https://www.bariskarapelit.com/" target="_blank">
-            Travoline
+            Pelit
           </a>
         </Typography>
       </div>
